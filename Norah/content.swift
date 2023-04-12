@@ -20,7 +20,7 @@ struct servisewo: View {
                   VStack(spacing: 10){
                       Image("an")
                           .resizable()
-                      Text("Fun Lessons")
+                      Text("Fun-Lessons")
                           .fontWeight(.bold)
                           .font(.title)
                           .foregroundColor(Color.black)
